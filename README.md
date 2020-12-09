@@ -1,7 +1,7 @@
 # Neural Poetry Translation
 *[Currently under development]*
 ## Motivation
-Translation technologies have been developing rapidly in recent years. Many modern systems have achieved remarkable quality. These technologies allow people from different countries who speak different languages to understand each other and to get into the cultural, social and moral aspects of other nations.<br>
+Translation technologies have been developing rapidly in recent years. Many modern systems have achieved remarkable quality. These technologies allow people from different countries to understand each other and to get into the cultural, social and moral aspects of other nations.<br>
 One of the most important elements of culture is poetry. Unfortunately, by now there is no service that provides poetic translation without human involvement. Our goal is to try to create a neural network capable of translating poetry from one language into another.
 ## Data
 We have collected a corpus of texts consisting of pairs of verses in Russian and English.
